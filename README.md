@@ -2,6 +2,8 @@
 A python script to create outlines in the build the earth project
 
 ## How to use
+###before use
+- make sure python and pyautogui are installed using pip install
 ### default mode
 - draw a path on google earth pro 
 - save the path to google earth
